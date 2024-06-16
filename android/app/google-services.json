@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011444734572",
+    "project_id": "xroom-xchat",
+    "storage_bucket": "xroom-xchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011444734572:android:d3b12193e205c6c625d649",
+        "android_client_info": {
+          "package_name": "com.example.xchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAveWYwlZLyMtc-t8herDwIEVlClRtn3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
